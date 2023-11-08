@@ -1,0 +1,4 @@
+ [Wed Nov  8 14:08:39 2023] Copied: ../raw/source_folder\dummy_text.txt -> ../replica_folder\dummy_text.txt
+ [Wed Nov  8 14:09:39 2023] Copied: ../raw/source_folder\dummy_text.txt -> ../replica_folder\dummy_text.txt
+ [Wed Nov  8 14:09:39 2023] Copied: ../raw/source_folder\ratings_matrix.csv -> ../replica_folder\ratings_matrix.csv
+ [Wed Nov  8 14:12:39 2023] Copied: ../raw/source_folder\Veeam-Logo.png -> ../replica_folder\Veeam-Logo.png
