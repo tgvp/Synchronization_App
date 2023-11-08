@@ -43,3 +43,7 @@ Python.
 - Run All Cells in [``src/sync_app.ipynb``](src/sync_app.ipynb): the program will be running and any change made to the source folder will be reflected into the replica folder within 60 seconds (default).
 
 - Run [``src/simulate_fileops.py``](simulate_fileops.py): this will perform a few file operations to test the application while running it.
+
+## Issues created:
+
+- [ ] [Issue #1](https://github.com/tgvp/Synchronization_App/issues/1)
