@@ -49,7 +49,7 @@ def simulate_file_operations():
     # Sleep for 10 seconds
     time.sleep(10)
 
-    # Remove Veeam-Logo.png
+    # Remove Veeam-Logo.png - folder synchronization must not notice for 60 secs interval
     os.remove(os.path.join(source_folder, 'Veeam-Logo.png'))
 
     # Sleep for 70 seconds
