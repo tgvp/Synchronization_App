@@ -1,4 +1,9 @@
- [Wed Nov  8 14:08:39 2023] Copied: ../raw/source_folder\dummy_text.txt -> ../replica_folder\dummy_text.txt
- [Wed Nov  8 14:09:39 2023] Copied: ../raw/source_folder\dummy_text.txt -> ../replica_folder\dummy_text.txt
- [Wed Nov  8 14:09:39 2023] Copied: ../raw/source_folder\ratings_matrix.csv -> ../replica_folder\ratings_matrix.csv
- [Wed Nov  8 14:12:39 2023] Copied: ../raw/source_folder\Veeam-Logo.png -> ../replica_folder\Veeam-Logo.png
+[Thu Nov  9 08:46:23 2023] Syncing ../raw/source_folder and ../replica_folder folders
+[Thu Nov  9 08:46:23 2023] Sync interval: 60 seconds
+[Thu Nov  9 08:48:23 2023] Copied: ../raw/source_folder/dummy_text.txt -> ../replica_folder/dummy_text.txt
+[Thu Nov  9 08:49:23 2023] Copied: ../raw/source_folder/dummy_text.txt -> ../replica_folder/dummy_text.txt
+[Thu Nov  9 08:49:23 2023] Copied: ../raw/source_folder/ratings_matrix.csv -> ../replica_folder/ratings_matrix.csv
+[Thu Nov  9 08:50:23 2023] Deleted: ../replica_folder/ratings_matrix.csv
+[Thu Nov  9 08:51:23 2023] Copied: ../raw/source_folder/ratings_matrix.csv -> ../replica_folder/ratings_matrix.csv
+[Thu Nov  9 08:52:23 2023] Copied: ../raw/source_folder/Veeam-Logo.png -> ../replica_folder/Veeam-Logo.png
+[Thu Nov  9 08:56:36 2023] Stopping folders synchronization.
