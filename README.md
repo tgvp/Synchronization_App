@@ -42,7 +42,11 @@ Python.
 
 ## How to run me:
 
-- `Run All Cells` in [``src/sync_app.ipynb``](src/sync_app.ipynb): the program will be running and any change made to the source folder will be reflected into the replica folder within 60 seconds (default).
+- Jupyter Notebook:
+  - `Run All Cells` in [``src/sync_app.ipynb``](src/sync_app.ipynb): the program will be running and any change made to the source folder will be reflected into the replica folder within 60 seconds (default).
+
+- CLI app:
+  - [`src/sync_app.py`](src/sync_app.py): python sync_app.py --source ../raw/source --replica ../replica --log ../.log --interval 5
 
 ## Latest Logfile:
 - [`.log/sync_log.txt`](.log/sync_log.txt)
