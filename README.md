@@ -66,4 +66,4 @@ Python.
 ## Issues created:
 
 - [X] [Issue #1](https://github.com/tgvp/Synchronization_App/issues/1)
-- [ ] [Issue #2](https://github.com/tgvp/Synchronization_App/issues/2)
+- [X] [Issue #2](https://github.com/tgvp/Synchronization_App/issues/2)
