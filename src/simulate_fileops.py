@@ -5,7 +5,7 @@ import os
 def simulate_file_operations():
     """Simulate file operations by copying files to the source folder and removing them after a certain time."""
     
-    print("File operations started!")
+    print(f"[{time.ctime()}] File operations started!")
     
     source_folder = '../raw/source_folder'
     example_files = '../raw/example_files'
@@ -58,12 +58,8 @@ def simulate_file_operations():
     # Copy Veeam-Logo.png again
     shutil.copy(os.path.join(example_files, 'Veeam-Logo.png'), source_folder)
 
-    print("File operations finished!")
-
-def main():
-    simulate_file_operations()
+    print(f"[{time.ctime()}] File operations finished!")
 
 if __name__ == "__main":
     simulate_file_operations()
 
-main()
