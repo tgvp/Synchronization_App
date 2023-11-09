@@ -1,0 +1,6 @@
+[Thu Nov  9 11:35:12 2023] Syncing ../raw/source and ../replica folders
+[Thu Nov  9 11:35:12 2023] Sync interval: 5 seconds
+[Thu Nov  9 11:35:12 2023] Copied: ../raw/source/Veeam-Logo.png -> ../replica/Veeam-Logo.png
+[Thu Nov  9 11:35:12 2023] Copied: ../raw/source/dummy_text.txt -> ../replica/dummy_text.txt
+[Thu Nov  9 11:35:12 2023] Copied: ../raw/source/ratings_matrix.csv -> ../replica/ratings_matrix.csv
+[Thu Nov  9 11:35:18 2023] Stopping folders synchronization.
