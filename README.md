@@ -49,7 +49,7 @@ Python.
   - [`src/sync_app.py`](src/sync_app.py): python sync_app.py --source ../raw/source --replica ../replica --log ../.log --interval 5
 
 ## Latest Logfile:
-- [`.log/sync_log.txt`](.log/sync_log.txt)
+- [`.log/sync_log_Thu_Nov__9_08%3A46%3A23_2023.txt`](.log/sync_log_Thu_Nov__9_08%3A46%3A23_2023.txt)
 
 ```bash
 [Thu Nov  9 08:46:23 2023] Syncing ../raw/source_folder and ../replica_folder folders
