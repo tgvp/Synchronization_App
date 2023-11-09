@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ## Test Task
 
 Please implement a program that synchronizes two folders: source and
@@ -24,11 +26,11 @@ Python.
 
 # Comments:
 
-**This application was developed using **Jupyter Notebook** because it is a great tool to not only run code but also expose my thought process.**
+**This application was developed using **Jupyter Notebook** because it is a great tool to not only run code but also expose my thought process. The CLI version was developed and suffered just a few adaptions because it is no longer in the notebook format.**
 
 **This is an improved version that performs the required tasks but a better finished product will need more time and thought into it.**
 
-**The first version was developed and released in November 08 2023 and was able to do the required tasks. The improvement was necessary to present a better product.
+**The first version was developed and released in November 08 2023 and was able to do the required tasks. The improvement was necessary to present a better product.**
 
 **Since it was specified that this is a 3-5 days test, code optimizations and refactoring will be made during this time to present a better release version.**
 
