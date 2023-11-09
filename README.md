@@ -26,7 +26,9 @@ Python.
 
 **This application was developed using **Jupyter Notebook** because it is a great tool to not only run code but also expose my thought process.**
 
-**This is a first version that already performs the required tasks but a better finished product will need more time and thought into it.**
+**This is an improved version that performs the required tasks but a better finished product will need more time and thought into it.**
+
+**The first version was developed and released in November 08 2023 and was able to do the required tasks. The improvement was necessary to present a better product.
 
 **Since it was specified that this is a 3-5 days test, code optimizations and refactoring will be made during this time to present a better release version.**
 
@@ -34,16 +36,15 @@ Python.
 
 - [``src/sync_app.ipynb``](src/sync_app.ipynb)
 
-## Test:
+## Simulation of file operations:
 
 - [``src/simulate_fileops.py``](simulate_fileops.py)
 
 ## How to run me:
 
-- Run All Cells in [``src/sync_app.ipynb``](src/sync_app.ipynb): the program will be running and any change made to the source folder will be reflected into the replica folder within 60 seconds (default).
-
-- Run [``src/simulate_fileops.py``](simulate_fileops.py): this will perform a few file operations to test the application while running it.
+- `Run All Cells` in [``src/sync_app.ipynb``](src/sync_app.ipynb): the program will be running and any change made to the source folder will be reflected into the replica folder within 60 seconds (default).
 
 ## Issues created:
 
-- [ ] [Issue #1](https://github.com/tgvp/Synchronization_App/issues/1)
+- [X] [Issue #1](https://github.com/tgvp/Synchronization_App/issues/1)
+- [ ] [Issue #2](https://github.com/tgvp/Synchronization_App/issues/2)
