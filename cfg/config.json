@@ -2,6 +2,6 @@
 	"source": "../raw/source_folder",
 	"replica": "../replica_folder",
 	"log": "../.log",
-	"log_file": "/sync_log.txt",
+	"log_file": "/sync_log_",
 	"sync_interval": 60
 }
