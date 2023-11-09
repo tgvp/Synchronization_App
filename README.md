@@ -26,13 +26,13 @@ Python.
 
 # Comments:
 
-**This application was developed using **Jupyter Notebook** because it is a great tool to not only run code but also expose my thought process. The CLI version was developed and suffered just a few adaptions because it is no longer in the notebook format.**
+- This application was initially developed using **Jupyter Notebook** because it is a great tool to not only run code but also expose my thought process. The CLI version was developed suffering just a few adaptions because it is no longer in the notebook format.
 
-**This is an improved version that performs the required tasks but a better finished product will need more time and thought into it.**
+- This is an **improved version** that performs the required tasks but a better finished product would need more time and thought into it.
 
-**The first version was developed and released in November 08 2023 and was able to do the required tasks. The improvement was necessary to present a better product.**
+- The **first version** was developed and released in `November 08 2023` and was able to do the required tasks. The improvement was necessary to present a better product.
 
-**Since it was specified that this is a 3-5 days test, code optimizations and refactoring will be made during this time to present a better release version.**
+- Since it was specified that this is a 3-5 days test, code **optimizations and refactoring** will be made during this time to present a better release version.
 
 ## Application:
 
@@ -48,7 +48,7 @@ Python.
   - `Run All Cells` in [``src/sync_app.ipynb``](src/sync_app.ipynb): the program will be running and any change made to the source folder will be reflected into the replica folder within 60 seconds (default).
 
 - CLI app:
-  - [`src/sync_app.py`](src/sync_app.py): python sync_app.py --source ../raw/source --replica ../replica --log ../.log --interval 5
+  - [`src/sync_app.py`](src/sync_app.py): `python sync_app.py --source ../raw/source --replica ../replica --log ../.log --interval 5`
 
 ## Latest Logfile:
 - [`.log/sync_log_Thu_Nov__9_08%3A46%3A23_2023.txt`](.log/sync_log_Thu_Nov__9_08%3A46%3A23_2023.txt)
