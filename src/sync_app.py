@@ -100,6 +100,9 @@ def synchronize_folders(source_folder: str, replica_folder: str, log_file_path: 
                     log_file.write(f"[{time.ctime()}] Deleted: {replica_file_path}\n")
 
         time.sleep(sync_interval)
+        
+        if not run_sync:
+            break
 
 def main():
     
@@ -150,4 +153,3 @@ def main():
 if __name__ == '__main__':
     main()
     
-main()
